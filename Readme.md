@@ -1,0 +1,3 @@
+1. Venv
+2. Requirements # (rasa, packaging==21.3)
+3. rasa train
